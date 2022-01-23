@@ -1,0 +1,6 @@
+{
+	"appId": "com.whitebox.matajiri",
+	"appName": "Matajiri",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

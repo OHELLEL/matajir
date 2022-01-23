@@ -1,0 +1,7 @@
+{
+  "name": "Matajiri",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
